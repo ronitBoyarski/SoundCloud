@@ -15,7 +15,7 @@ npm install jspm -g
 npm install live-server -g
 ```
 
-### How to try out the tutorial steps
+### Run SoundColud project
 
 1. Clone the repository.
 2. Install dependencies with JSPM
