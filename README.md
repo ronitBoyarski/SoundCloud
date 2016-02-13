@@ -3,19 +3,19 @@ SoundCloud API demonstration using Angular 2.
 
 ### Requirements
 
-You need to have [Node.js] installed for using NPM.
-[JSPM] for managing the packages
+You need to have [Node.js](https://nodejs.org/en/download) installed for using NPM.
+[JSPM](http://jspm.io) for managing the packages
 
 ```sh
 npm install jspm -g
 ```
-[live-server] for testing out in a browser
+[live-server](https://www.npmjs.com/package/live-server) for testing out in a browser
 
 ```sh
 npm install live-server -g
 ```
 
-### Run SoundColud project
+### Running the SoundCloud project
 
 1. Clone the repository.
 2. Install dependencies with JSPM
@@ -27,3 +27,4 @@ git clone https://github.com/ronitBoyarski/SoundCloud
 cd SoundCloud
 jspm install
 live-server
+```
